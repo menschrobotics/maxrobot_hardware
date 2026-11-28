@@ -198,7 +198,7 @@ Please ensure that hardware modifications and technical information are properly
 
 ## License
 
-Licensing information will be announced once the project license has been finalised and approved by Mensch Robotics.
+This project is licensed under the **Apache License 2.0**.
 
 ## About MAX
 
